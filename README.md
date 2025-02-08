@@ -16,8 +16,7 @@
 - 🐍 Python
 - 🐧 Linux
 
-## 12-Week AWS Solutions Architect – Associate Exam Challenge 🚀
-
+## Projects
 ### Week 1: Simple Static Website
 - **Description**: Hosted a static website on Amazon S3 with a custom domain using Route 53 and secured with HTTPS.
 - **Technologies**: Amazon S3, Route 53, Certificate Manager
@@ -68,18 +67,8 @@
 - **Technologies**: AWS IAM, MFA
 - ![Security Best Practices](https://example.com/security-best-practices-image.png) <!-- Replace with actual image link -->
 
-### Week 11: Cost Management and Optimization
-- **Description**: Analyzed and optimized costs using AWS Cost Explorer and Trusted Advisor.
-- **Technologies**: AWS Cost Explorer, AWS Trusted Advisor
-- ![Cost Management](https://example.com/cost-management-image.png) <!-- Replace with actual image link -->
-
-### Week 12: Final Review and Practice Exams
-- **Description**: Reviewed key concepts, completed practice exams, and identified any remaining weak areas.
-- **Technologies**: Various AWS services
-- ![Final Review](https://example.com/final-review-image.png) <!-- Replace with actual image link -->
-
 ## Contact
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/haniyusuf)
 - **Email**: [Reach out](mailto:your.email@example.com)
 
 Feel free to connect with me on LinkedIn or reach out via email!
@@ -87,5 +76,3 @@ Feel free to connect with me on LinkedIn or reach out via email!
 ---
 
 Thank you for visiting my profile! 😊
-
-
