@@ -17,10 +17,12 @@
 - 🐧 Linux
 
 ## Projects
+
 ### Week 1: Simple Static Website
 - **Description**: Hosted a static website on Amazon S3 with a custom domain using Route 53 and secured with HTTPS.
 - **Technologies**: Amazon S3, Route 53, Certificate Manager
 - ![Static Website](https://example.com/static-website-image.png) <!-- Replace with actual image link -->
+- **Website URL**: [http://hansbuckk.s3-website.eu-north-1.amazonaws.com](http://hansbuckk.s3-website.eu-north-1.amazonaws.com)
 
 ### Week 2: Dynamic Web Application
 - **Description**: Deployed a dynamic web application using AWS Elastic Beanstalk with a managed database on Amazon RDS.
