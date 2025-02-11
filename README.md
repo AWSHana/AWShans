@@ -24,10 +24,11 @@
 - ![Static Website](https://example.com/static-website-image.png) <!-- Replace with actual image link -->
 - **Website URL**: [http://hansbuckk.s3-website.eu-north-1.amazonaws.com](http://hansbuckk.s3-website.eu-north-1.amazonaws.com)
 
-### Week 2: Dynamic Web Application
-- **Description**: Deployed a dynamic web application using AWS Elastic Beanstalk with a managed database on Amazon RDS.
-- **Technologies**: AWS Elastic Beanstalk, Amazon RDS
-- ![Dynamic Web Application](https://example.com/dynamic-web-app-image.png) <!-- Replace with actual image link -->
+### Week 2: Simple Web Server on AWS EC2
+- **Description**: Deployed a simple web server using Amazon EC2 and Apache.
+- **Technologies**: Amazon EC2, Apache
+- **Public URL**: [ec2-16-171-255-75.eu-north-1.compute.amazonaws.com)
+- ![Simple Web Server](https://example.com/simple-web-server-image.png)
 
 ### Week 3: Scalable Architecture
 - **Description**: Created an auto-scaling group with EC2 instances and set up a load balancer for high availability.
