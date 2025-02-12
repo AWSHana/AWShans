@@ -1,7 +1,8 @@
-# 🌟 Welcome to My Profile! 🌟
+# 🎉 Hey There, Cloud Explorer! 🚀
 
 ## About Me
-👋 Hi there! I'm a passionate cloud computing enthusiast with a strong interest in AWS. Recently, I passed the **CompTIA A+** and **AWS Cloud Practitioner** exams, and I'm currently working towards becoming an **AWS Solutions Architect**.
+I am a dedicated cloud computing enthusiast with a particular focus on AWS. Having successfully passed the CompTIA A+ and AWS Cloud Practitioner exams, I am now actively pursuing hands-on experience through a variety of AWS cloud projects. These projects include deploying static websites, configuring IAM, and setting up web servers on EC2 instances, all of which are enhancing my practical skills and knowledge. I am dedicating myself to completing over 100 labs to pass the AWS Certified Solutions Architect - Associate (AWS SAA) exam. My ultimate goal is to become an AWS Solutions Architect.
+**AWS Solutions Architect**.
 
 ## Skills
 - ☁️ Cloud Computing (AWS)
@@ -16,9 +17,9 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+|Static Website on S3, DNS routing, and secure HTTPS access          | <a href="https://google.com">Detection Lab</a>|
+| AWS Identity and Access Management to securely control access to AWS resources | <a href="https://google.com">Detection Lab</a>|
+| Deployed a Web Server using Amazon EC2 and Apache         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
