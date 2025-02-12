@@ -28,7 +28,7 @@
 - **Description**: Deployed a simple web server using Amazon EC2 and Apache.
 - **Technologies**: Amazon EC2, Apache
 - **Public URL**: ec2-16-171-255-75.eu-north-1.compute.amazonaws.com
-- ![Simple Web Server](https://example.com/simple-web-server-image.png)
+- ![Simple Web Server](ec2-16-171-255-75.eu-north-1.compute.amazonaws.com)
 
 ### Week 3: Scalable Architecture
 - **Description**: Created an auto-scaling group with EC2 instances and set up a load balancer for high availability.
