@@ -3,11 +3,6 @@
 ## About Me
 👋 Hi there! I'm a passionate cloud computing enthusiast with a strong interest in AWS. Recently, I passed the **CompTIA A+** and **AWS Cloud Practitioner** exams, and I'm currently working towards becoming an **AWS Solutions Architect**.
 
-## Certifications
-- 📜 **CompTIA A+**
-- 📜 **AWS Certified Cloud Practitioner**
-- 🔜 Currently pursuing: **AWS Certified Solutions Architect – Associate**
-
 ## Skills
 - ☁️ Cloud Computing (AWS)
 - 🌐 Networking
