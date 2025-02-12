@@ -16,66 +16,51 @@
 - 🐍 Python
 - 🐧 Linux
 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## Projects
-
-### Week 1: Simple Static Website
-- **Description**: Hosted a static website on Amazon S3 with a custom domain using Route 53 and secured with HTTPS.
-- **Technologies**: Amazon S3, Route 53, Certificate Manager
-- ![Static Website](https://example.com/static-website-image.png) <!-- Replace with actual image link -->
-- **Website URL**: [http://hansbuckk.s3-website.eu-north-1.amazonaws.com](http://hansbuckk.s3-website.eu-north-1.amazonaws.com)
-
-### Week 2: Simple Web Server on AWS EC2
-- **Description**: Deployed a simple web server using Amazon EC2 and Apache.
-- **Technologies**: Amazon EC2, Apache
-- **Public URL**: ec2-16-171-255-75.eu-north-1.compute.amazonaws.com
-- ![Simple Web Server](ec2-16-171-255-75.eu-north-1.compute.amazonaws.com)
-
-### Week 3: Scalable Architecture
-- **Description**: Created an auto-scaling group with EC2 instances and set up a load balancer for high availability.
-- **Technologies**: Amazon EC2, Elastic Load Balancing
-- ![Scalable Architecture](https://example.com/scalable-architecture-image.png) <!-- Replace with actual image link -->
-
-### Week 4: Serverless Application
-- **Description**: Built a serverless application using AWS Lambda and API Gateway, with data storage in DynamoDB.
-- **Technologies**: AWS Lambda, API Gateway, DynamoDB
-- ![Serverless Application](https://example.com/serverless-app-image.png) <!-- Replace with actual image link -->
-
-### Week 5: Networking
-- **Description**: Designed a VPC with public and private subnets, set up a NAT gateway, and configured security groups and network ACLs.
-- **Technologies**: VPC, NAT Gateway, Security Groups
-- ![Networking](https://example.com/networking-image.png) <!-- Replace with actual image link -->
-
-### Week 6: Monitoring and Logging
-- **Description**: Set up monitoring for applications using Amazon CloudWatch and logging with AWS CloudTrail.
-- **Technologies**: Amazon CloudWatch, AWS CloudTrail
-- ![Monitoring and Logging](https://example.com/monitoring-logging-image.png) <!-- Replace with actual image link -->
-
-### Week 7: Infrastructure as Code
-- **Description**: Defined and deployed infrastructure using AWS CloudFormation.
-- **Technologies**: AWS CloudFormation
-- ![Infrastructure as Code](https://example.com/infrastructure-code-image.png) <!-- Replace with actual image link -->
-
-### Week 8: CI/CD Pipeline
-- **Description**: Created a continuous integration and deployment pipeline using AWS CodePipeline, CodeBuild, and CodeDeploy.
-- **Technologies**: AWS CodePipeline, CodeBuild, CodeDeploy
-- ![CI/CD Pipeline](https://example.com/ci-cd-pipeline-image.png) <!-- Replace with actual image link -->
-
-### Week 9: Data Processing
-- **Description**: Designed a data processing workflow with AWS Glue, Lambda, and Amazon S3, and queried data using Amazon Athena.
-- **Technologies**: AWS Glue, AWS Lambda, Amazon S3, Amazon Athena
-- ![Data Processing](https://example.com/data-processing-image.png) <!-- Replace with actual image link -->
-
-### Week 10: Security Best Practices
-- **Description**: Implemented IAM best practices, configured multi-factor authentication (MFA), and set up security policies.
-- **Technologies**: AWS IAM, MFA
-- ![Security Best Practices](https://example.com/security-best-practices-image.png) <!-- Replace with actual image link -->
-
-## Contact
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/haniyusuf)
-- **Email**: [Reach out](mailto:your.email@example.com)
-
-Feel free to connect with me on LinkedIn or reach out via email!
-
----
-
-Thank you for visiting my profile! 😊
+- Detection Lab
+- SOC Automation Project
