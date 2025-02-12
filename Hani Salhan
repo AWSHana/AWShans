@@ -1,0 +1,36 @@
+# AWS Identity and Access Management (IAM) Lab 🌐
+
+![AWS IAM]()
+
+## Overview 🛡️
+This lab will cover the basics of AWS Identity and Access Management (IAM), which is a web service that helps users securely control access to AWS resources. The objective of this lab is to guide users through creating IAM users and adding them to IAM groups, along with permission policies, to provide access to various services in the AWS account.
+
+## Duration ⏰
+**30 Minutes**
+
+## AWS Region 🌍
+**Global**
+
+## Lab Steps 📝
+### 1. Create IAM Users 👥
+- Step-by-step instructions on creating IAM users.
+- Explain the importance of IAM users and their roles.
+
+### 2. Create IAM Groups 🗂️
+- Guide on creating IAM groups.
+- Discuss the benefits of using IAM groups for managing permissions.
+
+### 3. Attach Policies 🧩
+- Instructions on attaching policies to IAM groups.
+- Provide examples of commonly used permission policies.
+
+### 4. Test Access 🔍
+- Verify that the IAM users have the appropriate access to the specified AWS services.
+- Troubleshooting tips in case of permission issues.
+
+## Conclusion ✅
+This lab provides a basic understanding of AWS IAM and how to manage access to AWS resources effectively. By following these steps, users will be able to create and manage IAM users and groups with the appropriate permission policies.
+
+## Additional Resources 📚
+- [AWS IAM Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- [AWS IAM Best Practices](https://aws.amazon.com/iam/best-practices/)
