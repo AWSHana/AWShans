@@ -20,9 +20,19 @@ I am a dedicated cloud computing enthusiast with a particular focus on AWS. Havi
 |Static Website on S3, DNS routing, and secure HTTPS access          | <a href="https://google.com">Detection Lab</a>|
 | AWS Identity and Access Management to securely control access to AWS resources | <a href="https://google.com">Detection Lab</a>|
 | Deployed a Web Server using Amazon EC2 and Apache         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Creating NAT Gateways in AWS      | SOC Automation Lab|
+| Amazon VPC with Public and Private Subnets                  | SOC Automation Lab|
+| Understanding and Configuring Layered Security in an AWS VPC | SOC Automation Lab|
+| Amazon CloudFormation | SOC Automation Lab|
+| Creating VPC's with AWS Cloudformation | SOC Automation Lab|
+| Creating AWS VPC Flow Logs | SOC Automation Lab|
+| Accessing S3 from Private EC2 instance using VPC Endpoint | SOC Automation Lab|
+| AWS VPC NACL | SOC Automation Lab|
+| Peer VPC with Transit Gateway and its components | SOC Automation Lab|
+| Amazon GuardDuty | SOC Automation Lab|
+|Discovering sensitive data present in S3 bucket using Amazon Macie | SOC Automation Lab|
+| Blocking web traffic with WAF in AWS | SOC Automation Lab|
+| Implementing AWS WAF with ALB to block SQL injection, Geo Location and Query string | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
