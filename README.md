@@ -18,19 +18,24 @@ I am a dedicated cloud computing enthusiast with a particular focus on AWS. Havi
 |Static Website on S3, DNS routing, and secure HTTPS access          | <a href="https://google.com">Detection Lab</a>|
 | AWS Identity and Access Management to securely control access to AWS resources | <a href="https://google.com">Detection Lab</a>|
 | Deployed a Web Server using Amazon EC2 and Apache         | SOC Automation Lab|
-| Creating NAT Gateways in AWS      | SOC Automation Lab|
-| Amazon VPC with Public and Private Subnets                  | SOC Automation Lab|
-| Understanding and Configuring Layered Security in an AWS VPC | SOC Automation Lab|
-| Amazon CloudFormation | SOC Automation Lab|
-| Creating VPC's with AWS Cloudformation | SOC Automation Lab|
-| Creating AWS VPC Flow Logs | SOC Automation Lab|
-| Accessing S3 from Private EC2 instance using VPC Endpoint | SOC Automation Lab|
-| AWS VPC NACL | SOC Automation Lab|
-| Peer VPC with Transit Gateway and its components | SOC Automation Lab|
-| Amazon GuardDuty | SOC Automation Lab|
-|Discovering sensitive data present in S3 bucket using Amazon Macie | SOC Automation Lab|
-| Blocking web traffic with WAF in AWS | SOC Automation Lab|
-| Implementing AWS WAF with ALB to block SQL injection, Geo Location and Query string | SOC Automation Lab|
+| Serverless Image Processing Pipline      | SOC Automation Lab|
+| Event-Driven Data Processing                  | SOC Automation Lab|
+| Serverless REST API | SOC Automation Lab|
+| ECS Microservices Deployment     | SOC Automation Lab|
+| EKS Kubernetes Cluster                  | SOC Automation Lab|
+| App Runner Service | SOC Automation Lab|
+| Data Lake Architecture     | SOC Automation Lab|
+| Real-time Analytics Pipeline                 | SOC Automation Lab|
+| ETL Processing Pipline | SOC Automation Lab|
+| Infrastructure as Code | SOC Automation Lab|
+| CI/CD Pipline    | SOC Automation Lab|
+| Multi-Account Strategy                 | SOC Automation Lab|
+| ML Model Deployment | SOC Automation Lab|
+| Recommendation Engine | SOC Automation Lab|
+| Computer Vision Pipeline    | SOC Automation Lab|
+| Multi-Account Strategy                 | SOC Automation Lab|
+| ML Model Deployment | SOC Automation Lab|
+
 
 ## Tools
 
